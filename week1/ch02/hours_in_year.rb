@@ -5,3 +5,4 @@
 
 
 ### Your Code Here ###
+365.25*24.to_i
